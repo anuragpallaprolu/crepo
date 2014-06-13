@@ -1,0 +1,1006 @@
+1,4d0
+< abiword						install
+< abiword-common					install
+< abiword-plugin-grammar				install
+< abiword-plugin-mathview				install
+12a9,10
+> adobe-flash-properties-gtk			install
+> adobe-flashplugin				install
+14d11
+< alacarte					install
+15a13
+> alsa-hda-lts-quantal-dkms			install
+29d26
+< apt-file					install
+48d44
+< b43-fwcutter					install
+56d51
+< bcmwl-kernel-source				install
+59d53
+< binutils-dev					install
+61,62c55,56
+< blcr-util					install
+< blt						install
+---
+> bluez						install
+> bluez-alsa					install
+63a58
+> bluez-gstreamer					install
+68d62
+< bridge-utils					install
+70d63
+< brltty-x11					install
+72a66
+> bt-dw1705-firmware				install
+78,79c72,74
+< catfish						install
+< cdbs						install
+---
+> ca-certificates-java				install
+> canonical-oem-keyring				install
+> canonical-poke					install
+88a84
+> compiz-plugins					install
+98d93
+< cpu-checker					install
+102c97
+< csh						install
+---
+> csmb-meta					install
+109d103
+< curl						install
+118d111
+< debhelper					install
+120a114,115
+> dell-e-star					install
+> dell-recovery					install
+122,123d116
+< dh-apparmor					install
+< dh-translations					install
+133,134d125
+< docbook-xml					install
+< docbook-xsl					install
+136d126
+< dpatch						install
+138a129
+> dpkg-repack					install
+141d131
+< dvipng						install
+143a134
+> ecryptfs-utils					install
+145,151d135
+< eiskaltdcpp					install
+< eiskaltdcpp-common				install
+< eiskaltdcpp-emoticons				install
+< eiskaltdcpp-qt					install
+< eiskaltdcpp-qt-data				install
+< eiskaltdcpp-scripts				install
+< eiskaltdcpp-sounds				install
+158a143
+> ethtool						install
+164,165d148
+< exo-utils					install
+< extra-xdg-menus					install
+167,168c150,151
+< fglrx-amdcccle-experimental-12			install
+< fglrx-experimental-12				install
+---
+> fglrx						install
+> fglrx-amdcccle					install
+176,177d158
+< firmware-b43-installer				install
+< flashplugin-installer				install
+178a160
+> fluendo-eula					install
+182d163
+< fonts-droid					install
+207d187
+< freepats					install
+211d190
+< fuse-utils					install
+214d192
+< gawk						install
+224,232d201
+< geda						install
+< geda-doc					install
+< geda-examples					install
+< geda-gattrib					install
+< geda-gnetlist					install
+< geda-gschem					install
+< geda-gsymcheck					install
+< geda-symbols					install
+< geda-utils					install
+239d207
+< gerbv						install
+247,249d214
+< gigolo						install
+< gimp						install
+< gimp-data					install
+260a226
+> gir1.2-gnomebluetooth-1.0			install
+290a257
+> gnome-bluetooth					install
+293d259
+< gnome-desktop-data				install
+317d282
+< gnome-system-tools				install
+320d284
+< gnome-time-admin				install
+321a286
+> gnome-user-share				install
+323,325d287
+< gnumeric					install
+< gnumeric-common					install
+< gnumeric-doc					install
+327,329c289
+< gnuplot						install
+< gnuplot-nox					install
+< gnuplot-x11					install
+---
+> google-chrome-stable				install
+332d291
+< groff						install
+344d302
+< gstreamer0.10-ffmpeg				install
+347d304
+< gstreamer0.10-gnomevfs				install
+349d305
+< gstreamer0.10-plugins-bad			install
+353d308
+< gstreamer0.10-plugins-ugly			install
+357,358d311
+< gthumb						install
+< gthumb-data					install
+361d313
+< gtk2-engines-pixbuf				install
+363d314
+< gtkwave						install
+384d334
+< html2text					install
+385a336
+> hunspell-en-ca					install
+395c346,350
+< icoutils					install
+---
+> icedtea-6-jre-cacao				install
+> icedtea-6-jre-jamvm				install
+> icedtea-6-plugin				install
+> icedtea-netx					install
+> icedtea-netx-common				install
+398,399d352
+< imagemagick					install
+< imagemagick-common				install
+401d353
+< indicator-application-gtk2			install
+405d356
+< indicator-messages-gtk2				install
+410d360
+< indicator-sound-gtk2				install
+412d361
+< indicator-status-provider-pidgin		install
+420a370
+> intel-i915-backport-3.8-dkms			install
+428,429d377
+< ipython						install
+< ipython-notebook				install
+434d381
+< iverilog					install
+435a383
+> java-common					install
+439,440d386
+< kate-data					install
+< katepart					install
+442,447d387
+< kde-runtime					install
+< kde-runtime-data				install
+< kdelibs-bin					install
+< kdelibs5-data					install
+< kdelibs5-plugins				install
+< kdoctools					install
+450c390
+< kile						install
+---
+> keyutils					install
+452d391
+< konsole						install
+454,455d392
+< kubuntu-debug-installer				install
+< kvm-ipxe					install
+468d404
+< leafpad						install
+470c406
+< liba52-0.7.4					install
+---
+> lib32gcc1					install
+472d407
+< libabiword-2.9					install
+475d409
+< libaio1						install
+479d412
+< libamd2.2.0					install
+482,483d414
+< libapr1						install
+< libaprutil1					install
+485d415
+< libapt-pkg-perl					install
+488d417
+< libarpack2					install
+494d422
+< libass4						install
+498a427,428
+> libatk-wrapper-java				install
+> libatk-wrapper-java-jni				install
+502d431
+< libatlas3gf-base				install
+504d432
+< libattica0.3					install
+515,518d442
+< libavcodec53					install
+< libavformat53					install
+< libavutil51					install
+< libbabl-0.0-0					install
+534d457
+< libbz2-dev					install
+538a462
+> libc6-i386					install
+554,555d477
+< libccolamd2.7.1					install
+< libcdaudio1					install
+560,562d481
+< libcdt4						install
+< libcelt0-0					install
+< libcholmod1.7.1					install
+566d484
+< libclucene0ldbl					install
+568d485
+< libcolamd2.7.1					install
+572,573d488
+< libconfig-file-perl				install
+< libcr0						install
+588d502
+< libcxsparse2.2.3				install
+591d504
+< libdb4.8					install
+599,600d511
+< libdc1394-22					install
+< libdca0						install
+608,609d518
+< libdirac-encoder0				install
+< libdirectfb-1.2-9				install
+613d521
+< libdlrestrictions1				install
+618d525
+< libdrm-dev					install
+619a527,530
+> libdrm-ltsq-intel1				install
+> libdrm-ltsq-nouveau2				install
+> libdrm-ltsq-radeon1				install
+> libdrm-ltsq2					install
+625,626d535
+< libdvdnav4					install
+< libdvdread4					install
+629a539
+> libecryptfs0					install
+635c545,546
+< libeiskaltdcpp2.2				install
+---
+> libegl1-mesa-drivers-lts-quantal		install
+> libegl1-mesa-lts-quantal			install
+637d547
+< libenca0					install
+648,650d557
+< libexo-1-0					install
+< libexo-common					install
+< libexo-helpers					install
+652d558
+< libexpat1-dev					install
+655d560
+< libfaad2					install
+658d562
+< libfftw3-3					install
+666,667d569
+< libflite1					install
+< libfltk1.1					install
+684,685c586
+< libgarcon-1-0					install
+< libgarcon-common				install
+---
+> libgbm1-lts-quantal				install
+699,700d599
+< libgdome2-0					install
+< libgdome2-cpp-smart0c2a				install
+703,704d601
+< libgeda-common					install
+< libgeda38					install
+706d602
+< libgegl-0.0-0					install
+714d609
+< libgimp2.0					install
+717d611
+< libgl1-mesa-dev					install
+721a616,617
+> libgles1-mesa-lts-quantal			install
+> libgles2-mesa-lts-quantal			install
+729d624
+< libglpk0					install
+731,732d625
+< libglu1-mesa-dev				install
+< libgme0						install
+746,748d638
+< libgnomevfs2-0					install
+< libgnomevfs2-common				install
+< libgnomevfs2-extra				install
+752,753d641
+< libgoffice-0.8-8				install
+< libgoffice-0.8-8-common				install
+764,766d651
+< libgraph4					install
+< libgraphicsmagick++3				install
+< libgraphicsmagick3				install
+770,773d654
+< libgsf-1-114					install
+< libgsf-1-common					install
+< libgsm1						install
+< libgsoap1					install
+777d657
+< libgstreamer-plugins-bad0.10-0			install
+787,788d666
+< libgtkglext1					install
+< libgtkmathview0c2a				install
+793d670
+< libgtkspell0					install
+801d677
+< libgvc5						install
+807d682
+< libhdf5-serial-1.8.4				install
+825,826d699
+< libibverbs-dev					install
+< libibverbs1					install
+828d700
+< libice-dev					install
+831c703,704
+< libid3tag0					install
+---
+> libidl-common					install
+> libidl0						install
+833d705
+< libido-0.1-0					install
+838d709
+< libilmbase6					install
+855d725
+< libjavascriptcoregtk-1.0-0			install
+858,860d727
+< libjpeg-dev					install
+< libjpeg-progs					install
+< libjpeg-turbo-progs				install
+862d728
+< libjpeg-turbo8-dev				install
+864d729
+< libjpeg8-dev					install
+867,868d731
+< libjs-mathjax					install
+< libjs-underscore				install
+872d734
+< libjudydebian1					install
+874,885d735
+< libkate1					install
+< libkatepartinterfaces4				install
+< libkcmutils4					install
+< libkde3support4					install
+< libkdeclarative5				install
+< libkdecore5					install
+< libkdesu5					install
+< libkdeui5					install
+< libkdewebkit5					install
+< libkdnssd4					install
+< libkemoticons4					install
+< libkeybinder0					install
+887,892d736
+< libkfile4					install
+< libkhtml5					install
+< libkidletime4					install
+< libkio5						install
+< libkjsapi4					install
+< libkjsembed4					install
+894c738
+< libkmediaplayer4				install
+---
+> libkms-ltsq1					install
+896,902d739
+< libknewstuff3-4					install
+< libknotifyconfig4				install
+< libkntlm4					install
+< libkonq-common					install
+< libkonq5-templates				install
+< libkonq5abi1					install
+< libkparts4					install
+904d740
+< libkpty4					install
+908,909d743
+< libkrosscore4					install
+< libktexteditor4					install
+914d747
+< liblaunchpad-integration1			install
+919d751
+< liblink-grammar4				install
+921c753
+< liblist-moreutils-perl				install
+---
+> libllvm3.0					install
+926d757
+< libloudmouth1-0					install
+929c760
+< liblqr-1-0					install
+---
+> libltdl-dev					install
+931d761
+< liblua-socket-doc				install
+933,934d762
+< liblua50					install
+< liblualib50					install
+940,941d767
+< liblzo2-2					install
+< libmad0						install
+943,945d768
+< libmagickcore4					install
+< libmagickcore4-extra				install
+< libmagickwand4					install
+951d773
+< libmimic0					install
+954d775
+< libmms0						install
+956d776
+< libmodplug1					install
+958d777
+< libmp3lame0					install
+960,961d778
+< libmpcdec6					install
+< libmpeg2-4					install
+968d784
+< libmysqlclient18				install
+972d787
+< libncurses5-dev					install
+975,980d789
+< libnepomuk4					install
+< libnepomukdatamanagement4			install
+< libnepomukquery4a				install
+< libnepomuksync4					install
+< libnepomukutils4				install
+< libnet-dbus-perl				install
+984d792
+< libnetpbm10					install
+1002d809
+< libnspr4-0d					install
+1006,1008d812
+< libntrack-qt4-1					install
+< libntrack0					install
+< libnuma1					install
+1012d815
+< libofa0						install
+1015,1017d817
+< liboobs-1-5					install
+< libopenal-data					install
+< libopenal1					install
+1019,1023d818
+< libopencore-amrnb0				install
+< libopencore-amrwb0				install
+< libopenexr6					install
+< libopenmpi-dev					install
+< libopenmpi1.3					install
+1025c820,821
+< libopenspc0					install
+---
+> libopenvg1-mesa-lts-quantal			install
+> liborbit2					install
+1027,1028d822
+< libotr2						install
+< libots0						install
+1045d838
+< libparpack2					install
+1048d840
+< libpathplan4					install
+1050d841
+< libpcap0.8-dev					install
+1054,1055d844
+< libpcre3-dev					install
+< libpcrecpp0					install
+1060,1061d848
+< libpgm-5.1-0					install
+< libphonon4					install
+1064d850
+< libplasma3					install
+1068d853
+< libpng12-dev					install
+1072d856
+< libpolkit-qt-1-1				install
+1077d860
+< libpostproc52					install
+1084,1087d866
+< libpthread-stubs0				install
+< libpthread-stubs0-dev				install
+< libptscotch-5.1					install
+< libptscotch-dev					install
+1094,1098d872
+< libqapt-runtime					install
+< libqapt1					install
+< libqca2						install
+< libqhull5					install
+< libqrupdate1					install
+1102d875
+< libqt4-dev					install
+1106,1107d878
+< libqt4-opengl-dev				install
+< libqt4-qt3support				install
+1115a887
+> libqtassistantclient4				install
+1121,1125d892
+< libqtscript4-core				install
+< libqtscript4-gui				install
+< libqtscript4-network				install
+< libqtscript4-xml				install
+< libqtwebkit-dev					install
+1130d896
+< librados2					install
+1132d897
+< librarian0					install
+1136d900
+< librbd1						install
+1138d901
+< libreadline-dev					install
+1140,1141d902
+< libreadline6-dev				install
+< libregexp-assemble-perl				install
+1149a911
+> libreoffice-help-en-gb				install
+1151a914,915
+> libreoffice-l10n-en-gb				install
+> libreoffice-l10n-en-za				install
+1169,1171d932
+< libschroedinger-1.0-0				install
+< libscotch-5.1					install
+< libscotch-dev					install
+1175d935
+< libsexy2					install
+1178d937
+< libsidplay1					install
+1180d938
+< libsigsegv2					install
+1183,1184d940
+< libslv2-9					install
+< libsm-dev					install
+1191d946
+< libsolid4					install
+1193,1194d947
+< libsoprano4					install
+< libsoundtouch0					install
+1197d949
+< libspandsp2					install
+1211,1214d962
+< libstlport4.6ldbl				install
+< libstreamanalyzer0				install
+< libstreams0					install
+< libstroke0					install
+1216d963
+< libsvn1						install
+1218d964
+< libswscale2					install
+1225d970
+< libtagc0					install
+1238,1241d982
+< libthreadweaver4				install
+< libthunarx-2-0					install
+< libtidy-0.99-0					install
+< libtie-ixhash-perl				install
+1245d985
+< libtinfo-dev					install
+1247c987
+< libtorque2					install
+---
+> libtool						install
+1250,1252c990
+< libts-0.0-0					install
+< libtumbler-1-0					install
+< libtwolame0					install
+---
+> libtxc-dxtn-s2tc0				install
+1255,1256d992
+< libumfpack5.4.0					install
+< libunique-1.0-0					install
+1268a1005,1008
+> libutouch-evemu1				install
+> libutouch-frame1				install
+> libutouch-geis1					install
+> libutouch-grail1				install
+1273,1274d1012
+< libva1						install
+< libvirtodbc0					install
+1278,1279d1015
+< libvo-aacenc0					install
+< libvo-amrwbenc0					install
+1283d1018
+< libvpx1						install
+1290a1026
+> libwayland-ltsq0				install
+1292,1293d1027
+< libwebkitgtk-1.0-0				install
+< libwebkitgtk-1.0-common				install
+1296,1297d1029
+< libwildmidi-config				install
+< libwildmidi1					install
+1309d1040
+< libwv-1.2-4					install
+1312,1313d1042
+< libwxbase2.8-0					install
+< libwxgtk2.8-0					install
+1316,1317d1044
+< libx11-dev					install
+< libx11-doc					install
+1319d1045
+< libx264-120					install
+1323d1048
+< libxau-dev					install
+1331a1057
+> libxcb-xfixes0					install
+1333d1058
+< libxcb1-dev					install
+1337d1061
+< libxdmcp-dev					install
+1339d1062
+< libxext-dev					install
+1341,1346d1063
+< libxfce4ui-1-0					install
+< libxfce4util-bin				install
+< libxfce4util-common				install
+< libxfce4util4					install
+< libxfcegui4-4					install
+< libxfconf-0-2					install
+1355,1356d1071
+< libxml-twig-perl				install
+< libxml-xpath-perl				install
+1358d1072
+< libxml2-utils					install
+1369d1082
+< libxt-dev					install
+1373d1085
+< libxvidcore4					install
+1380d1091
+< libzbar0					install
+1383,1385d1093
+< libzmq1						install
+< libzvbi-common					install
+< libzvbi0					install
+1388,1389d1095
+< lightdm-gtk-greeter				install
+< link-grammar-dictionaries-en			install
+1392,1400c1098,1099
+< linux-generic-pae				install
+< linux-headers-3.2.0-49				install
+< linux-headers-3.2.0-49-generic			install
+< linux-headers-3.2.0-49-generic-pae		install
+< linux-headers-3.5.0-23				install
+< linux-headers-3.5.0-23-generic			install
+< linux-headers-3.5.0-36				install
+< linux-headers-3.5.0-36-generic			install
+< linux-headers-generic				install
+---
+> linux-headers-3.5.0-22				install
+> linux-headers-3.5.0-22-generic			install
+1402,1405c1101
+< linux-headers-generic-pae			install
+< linux-image-3.2.0-49-generic-pae		install
+< linux-image-3.5.0-23-generic			install
+< linux-image-3.5.0-36-generic			install
+---
+> linux-image-3.5.0-22-generic			install
+1407d1102
+< linux-image-generic-pae				install
+1415d1109
+< lp-solve					install
+1421,1422d1114
+< lua5.2						install
+< lua50						install
+1425d1116
+< macchanger					install
+1429a1121,1123
+> manage-distro-upgrade				install
+> manage-estar-settings				install
+> manage-hibernate				install
+1435d1128
+< mesa-common-dev					install
+1446d1138
+< mpi-default-dev					install
+1448d1139
+< msr-tools					install
+1450,1451d1140
+< mtp-tools					install
+< mtpfs						install
+1457c1146
+< mysql-common					install
+---
+> mythes-en-au					install
+1460d1148
+< nasm						install
+1471d1158
+< netpbm						install
+1477d1163
+< nightingale					install
+1482d1167
+< ntrack-module-libnl-0				install
+1487,1490c1172,1174
+< octave3.2					install
+< octave3.2-common				install
+< odbcinst					install
+< odbcinst1debian2				install
+---
+> oem-bt-dw1705-dkms				install
+> oem-pulseaudio-alsamixer-control-files		install
+> oem-wireless-ath9k-3.9-rc4-2-dkms		install
+1493,1496c1177,1179
+< openfoam222					install
+< openmpi-bin					install
+< openmpi-checkpoint				install
+< openmpi-common					install
+---
+> openjdk-6-jre					install
+> openjdk-6-jre-headless				install
+> openjdk-6-jre-lib				install
+1501d1183
+< orage						install
+1504,1507d1185
+< oxygen-icon-theme				install
+< p7zip						install
+< paraviewopenfoam3120				install
+< parole						install
+1510d1187
+< pastebinit					install
+1512,1516d1188
+< patchutils					install
+< pavucontrol					install
+< pcb						install
+< pcb-common					install
+< pcb-gtk						install
+1523,1529d1194
+< phonon						install
+< phonon-backend-gstreamer			install
+< pidgin						install
+< pidgin-data					install
+< pidgin-libnotify				install
+< pidgin-microblog				install
+< pidgin-otr					install
+1531d1195
+< plasma-scriptengine-javascript			install
+1536,1537d1199
+< plymouth-theme-xubuntu-logo			install
+< plymouth-theme-xubuntu-text			install
+1568d1229
+< psutils						install
+1584d1244
+< python-central					install
+1587d1246
+< python-configobj				install
+1596d1254
+< python-decorator				install
+1598d1255
+< python-dev					install
+1599a1257
+> python-distutils-extra				install
+1607d1264
+< python-gmenu					install
+1626,1627d1282
+< python-matplotlib				install
+< python-matplotlib-data				install
+1629,1630d1283
+< python-mysqldb					install
+< python-nose					install
+1632,1633d1284
+< python-numexpr					install
+< python-numpy					install
+1638,1639d1288
+< python-pandas					install
+< python-pandas-lib				install
+1643a1293
+> python-progressbar				install
+1648c1298,1299
+< python-pyparsing				install
+---
+> python-qt4					install
+> python-qt4-dbus					install
+1652,1655d1302
+< python-rpy					install
+< python-scikits.statsmodels			install
+< python-scipy					install
+< python-scour					install
+1657d1303
+< python-simplegeneric				install
+1658a1305
+> python-sip					install
+1663,1666d1309
+< python-sympy					install
+< python-tables					install
+< python-tk					install
+< python-tornado					install
+1671d1313
+< python-tz					install
+1677a1320
+> python-vte					install
+1682d1324
+< python-xlrd					install
+1684d1325
+< python-zmq					install
+1687d1327
+< python2.7-dev					install
+1689d1328
+< qapt-batch					install
+1691,1694d1329
+< qemu						install
+< qemu-common					install
+< qemu-kvm					install
+< qemu-utils					install
+1696,1719d1330
+< qt4-designer					install
+< qt4-dev-tools					install
+< qt4-doc						install
+< qt4-linguist-tools				install
+< qt4-qmake					install
+< r-base-core					install
+< r-base-dev					install
+< r-cran-boot					install
+< r-cran-class					install
+< r-cran-cluster					install
+< r-cran-codetools				install
+< r-cran-foreign					install
+< r-cran-kernsmooth				install
+< r-cran-lattice					install
+< r-cran-mass					install
+< r-cran-matrix					install
+< r-cran-mgcv					install
+< r-cran-nlme					install
+< r-cran-nnet					install
+< r-cran-rpart					install
+< r-cran-spatial					install
+< r-cran-survival					install
+< r-doc-html					install
+< r-recommended					install
+1721d1331
+< rarian-compat					install
+1722a1333
+> reiserfsprogs					install
+1737d1347
+< ristretto					install
+1744,1745d1353
+< screensaver-default-images			install
+< seabios						install
+1746a1355
+> security-archive				install
+1751,1752d1359
+< sgml-data					install
+< shared-desktop-ontologies			install
+1754d1360
+< shimmer-themes					install
+1763d1368
+< soprano-daemon					install
+1769d1373
+< subversion					install
+1771d1374
+< synaptic					install
+1778d1380
+< system-tools-backends				install
+1782d1383
+< tcl8.5						install
+1794d1394
+< texinfo						install
+1802,1803d1401
+< texlive-fonts-extra				install
+< texlive-fonts-extra-doc				install
+1814,1818d1411
+< thunar						install
+< thunar-archive-plugin				install
+< thunar-data					install
+< thunar-media-tags-plugin			install
+< thunar-volman					install
+1822a1416
+> thunderbird-locale-en-gb			install
+1826d1419
+< tk8.5						install
+1834d1426
+< tsconf						install
+1836c1428
+< ttf-droid					install
+---
+> ttf-dejavu-extra				install
+1839d1430
+< ttf-lyx						install
+1843,1844d1433
+< tumbler						install
+< tumbler-common					install
+1845a1435
+> tzdata-java					install
+1853c1443
+< ubuntu-restricted-addons			install
+---
+> ubuntu-online-tour				install
+1856a1447
+> ubuntu-sso-client-qt				install
+1858a1450
+> ubuntu-uee					install
+1863a1456,1457
+> ubuntuone-control-panel-common			install
+> ubuntuone-control-panel-qt			install
+1888d1481
+< unrar						install
+1904a1498
+> user-first-login-u1				install
+1908,1910d1501
+< verilog						install
+< vgabios						install
+< vim						install
+1912d1502
+< vim-runtime					install
+1915,1920d1504
+< virtualbox					install
+< virtualbox-dkms					install
+< virtualbox-qt					install
+< virtuoso-minimal				install
+< virtuoso-opensource-6.1-bin			install
+< virtuoso-opensource-6.1-common			install
+1921a1506,1508
+> watauga-install-scripts				install
+> watauga-superkey-workaround			install
+> watauga2-meta					install
+1940,1943d1526
+< x11proto-core-dev				install
+< x11proto-input-dev				install
+< x11proto-kb-dev					install
+< x11proto-xext-dev				install
+1946,1947d1528
+< xchat						install
+< xchat-common					install
+1953,1984d1533
+< xfburn						install
+< xfce-keyboard-shortcuts				install
+< xfce4-appfinder					install
+< xfce4-battery-plugin				install
+< xfce4-cpugraph-plugin				install
+< xfce4-datetime-plugin				install
+< xfce4-dict					install
+< xfce4-indicator-plugin				install
+< xfce4-mailwatch-plugin				install
+< xfce4-netload-plugin				install
+< xfce4-notes					install
+< xfce4-notes-plugin				install
+< xfce4-notifyd					install
+< xfce4-panel					install
+< xfce4-places-plugin				install
+< xfce4-power-manager				install
+< xfce4-power-manager-data			install
+< xfce4-quicklauncher-plugin			install
+< xfce4-screenshooter				install
+< xfce4-session					install
+< xfce4-settings					install
+< xfce4-systemload-plugin				install
+< xfce4-taskmanager				install
+< xfce4-terminal					install
+< xfce4-utils					install
+< xfce4-verve-plugin				install
+< xfce4-volumed					install
+< xfce4-weather-plugin				install
+< xfce4-xkb-plugin				install
+< xfconf						install
+< xfdesktop4					install
+< xfdesktop4-data					install
+1990d1538
+< xfwm4						install
+1997,2000d1544
+< xorg-sgml-doctools				install
+< xscreensaver					install
+< xscreensaver-data				install
+< xscreensaver-gl					install
+2034,2039d1577
+< xtrans-dev					install
+< xubuntu-artwork					install
+< xubuntu-default-settings			install
+< xubuntu-docs					install
+< xubuntu-icon-theme				install
+< xubuntu-wallpapers				install
+2044a1583
+> zeitgeist					install

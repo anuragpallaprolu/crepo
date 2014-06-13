@@ -1,0 +1,7 @@
+//THIS IS A README FOR THE GETADDDRINFO() SOCKET CALL
+
+Its a very useful call which basically gets the information from the server the user/host machine requests from the web server. It firstlly takes the data from the user i.e, the Server IP/DNS name which maybe any AP/IP.
+
+Then it takes the data, connects to the webserver! and then dumps the data into an orderly (addrinfo compatible) linked list called servres. This list contains all the data required and all the NAT masked subnet IPs.
+
+//end
