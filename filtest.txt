@@ -1,0 +1,12 @@
+gyrox = 123
+gyroy = 124
+gyroz = 1312
+gyrox = 2341234
+gyrox = 123
+temp = 1312
+accx = 123123
+accy = 123123
+accz = 123121000
+temp = 98679790
+gyrox = 098098
+temp = 0980800
